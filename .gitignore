@@ -1,0 +1,6 @@
+cd кр
+git init
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/Анасиасия_Кулик/ДМ.git
+git push -u origin master
